@@ -7,13 +7,14 @@ function App() {
       <header className="App-header">
         <h1>Discussion</h1>
         <p>
-          Questioning and understanding: this is not about strong positions, it is about expanding wisdom. 
+          This is not about strong positions, it is about expanding wisdom 
         </p>
         <img src={logo} className="App-logo" alt="logo ying yang" />
         <a
           className="App-link"
           href="https://opensea.io/collection/questioning-and-understanding-expands-wisdom"
           target="_blank"
+          aria-label="Navigate to the opensea collection Discussion"
           rel="noopener noreferrer"
         >
           See the entire collection
