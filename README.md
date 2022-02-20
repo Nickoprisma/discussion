@@ -1,2 +1,2 @@
-# discussion
+# Discussion
 NFT Gallery
